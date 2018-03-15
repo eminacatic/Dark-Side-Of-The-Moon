@@ -100,6 +100,8 @@ Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove poda
  
  **Dostava robe klijentu**
  
+ Ukoliko je klijent nesto kupovao onda je obavezan da plati u gotovini dostavljacu prilikom primopredaje robe, u suprotnom ukoliko je njegov zahtjev bio neki falsifikovani dokument ili iznajmljivanje privatnog detektiva klijent moze da bira izmedju dva nacina placanja, gotovinom ili transakcijom novca na racun firme, uz uslov da ukoliko zeli izvrsiti transakciju, dostavljac mora prvo dobiti potvrdu od uprave da je transakcija izvrsena pa onda predati robu klijentu.
+ 
  ****
  
  # Funkcionalnosti
