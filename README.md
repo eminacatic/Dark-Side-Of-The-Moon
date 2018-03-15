@@ -10,7 +10,8 @@
 # Opis teme
 Jednostavna, pristupacna, funkcionalna i jedinstvena aplikacija “Dark web” koja pruza klijentima sve potrebne pogodnosti.
 Aplikacija "Dark Web" nudi korisnicima usluge koje ne mogu pronaći ni na jednom drugom mjestu. Brza i jednostavna kupovina vrijednih umjetnina, antikviteta, nakita, dijamanata, pa čak i iznajmljivanje privatnih detektiva. Želite kupiti sliku svog omiljenog umjetnika, želite u svojoj prvatnoj kolekciji imati skupi dijamant, sumnjate da vas partner vara ili su vam potrebni lažni dokumenti? Gdje to nabaviti ako ne na skrivenoj, ilegalnoj web stranici koju vode najtuicajniji ljude današnje najpoznatije mafijaške grupe: "Firma Ilegal"?
-Jednostavna uspostava komunikacije za pravim osobama za uslugu koja vam je potrebna. Brza dostava originalnih slika, dijamanata, svih vrsta nakita. Autenticnost predmeta zagarantovana, posjedujemo skenere i profesionalce koji su tu da potvrde njihovu ispravnost.
+
+Jednostavna uspostava komunikacije za pravim osobama za uslugu koja vam je potrebna. Brza dostava originalnih slika, dijamanata, svih vrsta nakita... Autenticnost predmeta zagarantovana, posjedujemo skenere i profesionalce koji su tu da potvrde njihovu ispravnost.
 Jednostavno placanje, mozete da bitare, da li zelite obaviti transakciju novca ili platiti direktno vasem dostavljacu ili detektivu, u oba slucaja je potrebno prethodno dostaviti novac i nakon toga vam predajemo narudzbu  (preporucujemo vam da se ne salite sa nama kada je u pitanju novac).
 
 Osposobili smo tim strucnjaka, glavnog odgovornog, njegovih najblizih ljudi od povjerenja, dostavljace i dobavljace svih potrebnih artikala, detektive strucnjake, sa dugogodisnjim radnim iskustvom, tehnoloske strucnjake-hakere i administratora koji se brine da klijente obavijesti o svemu sto nasa firma nudi.
