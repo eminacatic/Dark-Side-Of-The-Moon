@@ -100,7 +100,7 @@ Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove poda
  
  **Dostava robe klijentu**
  
- Ukoliko je klijent nesto kupovao onda je obavezan da plati u gotovini dostavljacu prilikom primopredaje robe, u suprotnom ukoliko je njegov zahtjev bio neki falsifikovani dokument ili iznajmljivanje privatnog detektiva klijent moze da bira izmedju dva nacina placanja, gotovinom ili transakcijom novca na racun firme, uz uslov da ukoliko zeli izvrsiti transakciju, dostavljac mora prvo dobiti potvrdu od uprave da je transakcija izvrsena pa onda predati robu klijentu.
+ Ukoliko je klijent nesto kupovao onda je obavezan da plati u gotovini dostavljacu prilikom primopredaje robe, u suprotnom ukoliko je njegov zahtjev bio neki falsifikovani dokument ili iznajmljivanje privatnog detektiva klijent moze da bira izmedju dva nacina placanja, gotovinom ili transakcijom novca na racun firme, uz uslov da ukoliko zeli izvrsiti transakciju, dostavljac mora prvo dobiti potvrdu od uprave da je transakcija izvrsena pa onda predati robu klijentu. 
  
  ****
  
@@ -123,17 +123,21 @@ Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove poda
 
 # Akteri
 
-Klijent - Kupuje robu, unajmljuje detektiva i šalje zahtjev za izradu lažnih dokumenata. 
+Klijent - Kupuje robu, unajmljuje detektiva i šalje zahtjev za izradu lažnih dokumenata i naravno najvaznije placa usluge. 
 
-Uprava - Dodaje novu robu, briše robu, odobrava/odbija zahtjeve. 
+Uprava - Dodaje novu robu, briše robu, odobrava/odbija zahtjeve, brine se o provjeri autenticnosti robe (skeniranje i poredjenje slika i provjera autenticnosti dijamanata). 
 
-Dostavljač - Dobija podatke o robi koju treba dostaviti, dostavlja je, naplaćuje i podnosi izvještaj.  
+Dostavljač - Dobija podatke o robi koju treba dostaviti, dostavlja je, naplaćuje i podnosi izvještaj o naplati.  
 
-Dobavljač - Pronalazi robu, podnosi prijedlog za kupovinu, obavlja kupovinu. 
+Dobavljač - Pronalazi robu, podnosi prijedlog za kupovinu, obavlja kupovinu.
 
-Privatni detektiv - Prati, piše izvještaj o praćenju. 
+Administrator - Odrzava aplikaciju, brine se o dodavanju nove robe na stranicu, i brisanju robe sa stranice, uz prethodno podnosenje zahtjeva za brisanje.
+
+Privatni detektiv - Prati, piše izvještaj o praćenju i preko njega se salje zahtjev za hakovanje hakeru. 
 
 Falsifikator - Osoba koja kreira lažna dokumenta na osnovu zahtjeva klijenta. 
 
 Haker - Radi za detektiva i po njegovom nalogu hakuje ono što je detektivu potrebno za praćenje. 
+
+Utjerivac duga - Osoba koja ce se pobrinuti da klijent plati sve ono sto je kupio od firme, takodjer provjerava datume do kojih je roba iznajmljena klijentima, i brine se da klijetni ne prevare firmu i da vrate sve na vrijeme.
 
