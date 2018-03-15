@@ -28,8 +28,27 @@ Prilikom registracije potrebno je da klijenti unesu sljedeće podatke:
 
 **Kupovina/Prodaja**
 
+Klijent može kupiti sljedeće:
+- Dijamanti
+- Nakit
+- Antikvitet
+- Slika
+Nakon što klijent odabere šta želi kupiti, potrebno je da pošalje zahtjev za kupovinu i čeka do 48 za odobrenje (ili odbijanje) zahtjeva. Zatim uprava zakazuje vrijeme i mjesto preuzimanja/plaćanja robe (najviše 48 sati od odobrenja transakcije). Plaćanje je isključivo lično i gotovinom dostavljaču. Nakon obavljenje kupovine roba se označava kao prodata.
+
 **Iznajmljivanje privatnog detektiva**
 
 **Izrađivanje lažnih dokumenata**
+
+Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove podatke koji će biti na dokumentu. A to su sljedeći podaci:
+- [x] Ime
+- [x] Prezime
+- [x] Mjesto rođenja
+- [x] Datum rođenja
+- [x] Spol
+- [x] Državljanstvo
+- [x] Prebivalište
+- [x] Slika
+
+
 
 
