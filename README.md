@@ -32,6 +32,8 @@ Prilikom registracije potrebno je da klijenti unesu sljedeće podatke:
  - _Tajni kod_
  - Password 
  - Korisničko ime
+ 
+ Neophodno je da klijent posjeduje korisnicki racun da bi mogao stupiti u kontakt sa mafijom i koristio usluge koje oni nude. 
 
 **Kupovina/Prodaja**
 
