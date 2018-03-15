@@ -39,6 +39,9 @@ Nakon što klijent odabere šta želi kupiti, potrebno je da pošalje zahtjev za
 **Iznajmljivanje privatnog detektiva**
 
 Ukoliko klijent želi unajmiti privatnog detektiva potrebno je da unese podatke o osobi koju treba pratiti (u daljem tekstu subjekat).
+
+ Osnovni podaci:
+ 
  - Ime
  - Prezime
  - Adresa stanovanja
@@ -46,14 +49,16 @@ Ukoliko klijent želi unajmiti privatnog detektiva potrebno je da unese podatke 
  
 U slučaju da je subjekat zaposlen:
 
-  - Naziv kompanije
-  - Adresa kompanije
+   - Naziv kompanije
+   - Adresa kompanije
   
 U slučaju da je klijent u nekoj organizaciji/društvu/sportskom klubu:
 
- - Naziv organizacije/društva/sportskog kluba 
- - Adresa organizacije/društva/sportskog kluba
- 
+  - Naziv organizacije/društva/sportskog kluba 
+  - Adresa organizacije/društva/sportskog kluba
+
+Ostali podaci:
+
 - Slika subjekta 
 - Najbliža rodbina sa kojom bi subjekt mogao biti u kontaktu (brat/sestra/roditelji/rođaci) 
 - Slike rodbine
