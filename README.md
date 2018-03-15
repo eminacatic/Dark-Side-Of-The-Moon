@@ -89,8 +89,36 @@ Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove poda
  
  **Nabavka nove robe**
  
- Dobavljači robe rade na terenu gdje obilaze antikvitetarnice ili razgovaraju sa vlasnicima robe koja 
+ Dobavljači robe rade na terenu gdje obilaze antikvitetarnice i traže robu koju bi mafija mogla kupiti a kasnije i preprodati svojim klijentima. Nakon utvrđivanja autentičnosti robe, šalje se zahtjev upravi sa detaljnim podacima o robi i slikom. Uprava ima rok od 48 sati da većinom odluči da se isplati kupiti određenu robu. Nakon odobrenja dobavljač ima rok od 72 sata da robu donese u sjedište mafije.
+ 
+ **Dostava robe klijentu**
+ 
+ ****
+ 
+ # Funkcionalnosti
+
+- Registracija/prijava na aplikaciju
+- Pregled robe 
+- Kupovina robe
+- Online plaćanje
+- Odobravanje zahtjeva (zahtjevi klijenata, dobavljača i članova uprave)
+- Izrada lažnih dokumenata (lična, pasoš i vozačka)
+- Unajmljivanje privatnog detektiva
+- Dodavanje nove robe
+- Brisanje robe
+- Promjena lozinke
+- Izvještaj o stanju robe
+- Mapa klijenata, dostavljača i dobavljača
+- Popunjavanje izvještaja o praćenju 
 
 
+# Akteri
 
+Klijent - Kupuje robu, unajmljuje detektiva i šalje zahtjev za izradu lažnih dokumenata.
+Uprava - Dodaje novu robu, briše robu, odobrava/odbija zahtjeve
+Dostavljač - Dobija podatke o robi koju treba dostaviti, dostavlja je, naplaćuje i podnosi izvještaj. 
+Dobavljač - Pronalazi robu, podnosi prijedlog za kupovinu, obavlja kupovinu.
+Privatni detektiv - Prati, piše izvještaj o praćenju.
+Falsifikator - Osoba koja kreira lažna dokumenta na osnovu zahtjeva klijenta.
+Haker - Radi za detektiva i po njegovom nalogu hakuje ono što je detektivu potrebno za praćenje.
 
