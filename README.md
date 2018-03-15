@@ -42,6 +42,7 @@ Klijent može kupiti sljedeće:
 - Slika
 
 Nakon što klijent odabere šta želi kupiti, potrebno je da pošalje zahtjev za kupovinu i čeka do 48 za odobrenje (ili odbijanje) zahtjeva. Zatim uprava zakazuje vrijeme i mjesto preuzimanja/plaćanja robe (najviše 48 sati od odobrenja transakcije). Plaćanje je isključivo lično i gotovinom dostavljaču. Nakon obavljenje kupovine roba se označava kao prodata.
+Ukoliko klijent zeli posebnu vrstu dijamanata ili nakita, onda te artikle moze odabrati samo licno prilikom komunikacije sa dostavljacem, uz prisustvo sefa mafije, koji ce odobriti ili odbiti novcanu ponudu za taj predmet.
 
 **Iznajmljivanje privatnog detektiva**
 
