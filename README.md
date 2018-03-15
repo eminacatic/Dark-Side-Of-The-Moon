@@ -63,6 +63,8 @@ Ostali podaci:
 - Najbliža rodbina sa kojom bi subjekt mogao biti u kontaktu (brat/sestra/roditelji/rođaci) 
 - Slike rodbine
 
+Izvještaj o praćenju se dostavlja lično kao i sva ostala roba. (ili online, da se može preuzeti samo ukoliko ima dovoljno sredstava na racunu)
+
 **Izrađivanje lažnih dokumenata**
 
 Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove podatke koji će biti na dokumentu. A to su sljedeći podaci:
@@ -75,6 +77,18 @@ Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove poda
  - Državljanstvo
  - Prebivalište
  - Slika
+ 
+ Dostava dokumenata se vrši kao i dostava ostale robe.
+ 
+ **Unošenje i brisanje robe sa spiska dostupnih**
+ 
+ Uprava je u mogućnosti da doda novu robu koju kupci mogu kupiti. Unošenje se vrši jednostavnim odabirom koji u koju kategoriju roba ide, zatim se unese naziv, kratak opis, cijena i slika.
+ 
+ Isto tako postoji mogućnost brisanja robe sa liste dostupne robe za prodaju. Član uprave podnosi zahtjev za brisanje, koji moraju svi članovi uprave da odobre. Uz zahtjev se šalje kratko obrazloženje za podnošenje zahtjeva za brisanje. Roba se briše sa liste dostupne robe 4 sata nakon odobrenja posljednjeg člana uprave.
+ 
+ **Nabavka nove robe**
+ 
+ Dobavljači robe rade na terenu gdje obilaze antikvitetarnice ili razgovaraju sa vlasnicima robe koja 
 
 
 
