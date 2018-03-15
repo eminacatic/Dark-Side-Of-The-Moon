@@ -71,7 +71,7 @@ Ostali podaci:
 - Najbliža rodbina sa kojom bi subjekt mogao biti u kontaktu (brat/sestra/roditelji/rođaci) 
 - Slike rodbine
 
-Izvještaj o praćenju se dostavlja lično kao i sva ostala roba. (ili online, da se može preuzeti samo ukoliko ima dovoljno sredstava na racunu)
+Izvještaj o praćenju se dostavlja lično kao i sva ostala robe. (ili online, da se može preuzeti samo ukoliko ima dovoljno sredstava na racunu)
 
 **Izrađivanje lažnih dokumenata**
 
