@@ -37,6 +37,21 @@ Nakon što klijent odabere šta želi kupiti, potrebno je da pošalje zahtjev za
 
 **Iznajmljivanje privatnog detektiva**
 
+Ukoliko klijent želi unajmiti privatnog detektiva potrebno je da unese podatke o osobi koju treba pratiti (u daljem tekstu subjekat).
+- [x] Ime
+- [x] Prezime
+- [x] Adresa stanovanja
+- [x] Srodstvo sa subjektom
+U slučaju da je subjekat zaposlen:
+- [] Naziv kompanije
+- [] Adresa kompanije
+U slučaju da je klijent u nekoj organizaciji/društvu/sportskom klubu:
+- [] Naziv organizacije/društva/sportskog kluba
+- [] Adresa organizacije/društva/sportskog kluba
+- [x] Slika subjekta
+- [x] Najbliža rodbina sa kojom bi subjekt mogao biti u kontaktu (brat/sestra/roditelji/rođaci)
+- [x] Slike rodbine
+
 **Izrađivanje lažnih dokumenata**
 
 Ukoliko klijent naruči izradu lažnih dokumenata potrebno je da unese nove podatke koji će biti na dokumentu. A to su sljedeći podaci:
